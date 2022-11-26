@@ -1,3 +1,6 @@
+## See Demo
+[Go to the Demo Web Site](https://karisgradientdecent.netlify.app/)
+
 ## Linear Regression with Gradient Descent
 * Linear Regression, a machine learning technique borrowed from statistics, refers to the process of fitting a linear equation (`y = mx + b`) to a set of training data (`x` being the input, `y` the output). Predictions can be made for new input data by feeding `x` into the equation and solving for `y`.
 * Multiple Linear Regression refers to the scenario where there are multiple input variables, typically listed as `x0`, `x1`, `x2`, and so on. In this case the equation to solve for is: `y = m0x0 + m1x1 + m2x2 + b`.
@@ -9,5 +12,3 @@
 * [Tom Alexander's JS Regression Library](https://github.com/Tom-Alexander/regression-js)
 * A video [tutorial](https://www.youtube.com/watch?v=HJRWhgyjoNo&t=608s) of the math and implementation by Jyo Pari
 
-## See Demo
-[Go to the Demo Web Site](https://karisgradientdecent.netlify.app/)
